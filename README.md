@@ -154,8 +154,7 @@ public class HelloController {
 
 
 ## GET - private end point - No Auth
-![Uploading image.png…]()
-
+<img width="1675" height="939" alt="image" src="https://github.com/user-attachments/assets/fe96ff06-bc13-46c7-bd4e-62322f8e83f1" />
 
 
 ## private End Point with valid Auth
